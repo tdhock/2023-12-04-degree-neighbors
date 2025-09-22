@@ -1,0 +1,21 @@
+fill	xmin	xmax	clickSelects.variable	clickSelects.value	showSelected1	PANEL	group
+#0000FF	-0.5	0.5	linear model poly. deg.	0	linear model poly. deg.	1	1
+#0000FF	0.5	1.5	linear model poly. deg.	1	linear model poly. deg.	1	1
+#0000FF	1.5	2.5	linear model poly. deg.	2	linear model poly. deg.	1	1
+#0000FF	2.5	3.5	linear model poly. deg.	3	linear model poly. deg.	1	1
+#0000FF	3.5	4.5	linear model poly. deg.	4	linear model poly. deg.	1	1
+#0000FF	4.5	5.5	linear model poly. deg.	5	linear model poly. deg.	1	1
+#0000FF	5.5	6.5	linear model poly. deg.	6	linear model poly. deg.	1	1
+#0000FF	6.5	7.5	linear model poly. deg.	7	linear model poly. deg.	1	1
+#0000FF	7.5	8.5	linear model poly. deg.	8	linear model poly. deg.	1	1
+#0000FF	8.5	9.5	linear model poly. deg.	9	linear model poly. deg.	1	1
+#00FF00	0.5	1.5	num. nearest neighbors	1	num. nearest neighbors	2	2
+#00FF00	1.5	2.5	num. nearest neighbors	2	num. nearest neighbors	2	2
+#00FF00	2.5	3.5	num. nearest neighbors	3	num. nearest neighbors	2	2
+#00FF00	3.5	4.5	num. nearest neighbors	4	num. nearest neighbors	2	2
+#00FF00	4.5	5.5	num. nearest neighbors	5	num. nearest neighbors	2	2
+#00FF00	5.5	6.5	num. nearest neighbors	6	num. nearest neighbors	2	2
+#00FF00	6.5	7.5	num. nearest neighbors	7	num. nearest neighbors	2	2
+#00FF00	7.5	8.5	num. nearest neighbors	8	num. nearest neighbors	2	2
+#00FF00	8.5	9.5	num. nearest neighbors	9	num. nearest neighbors	2	2
+#00FF00	9.5	10.5	num. nearest neighbors	10	num. nearest neighbors	2	2
